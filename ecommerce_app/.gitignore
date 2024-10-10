@@ -1,0 +1,20 @@
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+*.log
+*.pot
+*.py~
+*.swps
+*.swo
+.DS_Store
+
+# Django
+db.sqlite3
+media/
+static/
+.env
+
+# Docker
+*.dockerignore
